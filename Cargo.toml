@@ -6,3 +6,4 @@ edition = "2024"
 [dependencies]
 cpal = "0.13"
 hound = "3.4"
+clap = { version = "4.0", features = ["derive"] }
